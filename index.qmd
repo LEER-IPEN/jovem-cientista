@@ -1,0 +1,76 @@
+---
+title: ""
+pagetitle: "Jovem Cientista"
+page-layout: full
+toc: false
+body-classes: homepage
+---
+
+:::: {.container-texto}
+
+:::: {.carousel}
+
+:::: {.carousel-item image="assets/imgs/image.jpeg" caption="Átomo"}
+:::
+
+:::: {.carousel-item image="assets/imgs/image2.jpeg" caption="Carcará"}
+:::
+
+:::: {.carousel-item image="assets/imgs/image3.jpeg" caption="Jacu"}
+:::
+
+:::: {.carousel-item image="assets/imgs/image4.jpeg" caption="Quero-Quero"}
+:::
+
+:::: {.carousel-item image="assets/imgs/image5.jpeg" caption="Pica-Pau"}
+:::
+
+:::: {.carousel-item image="assets/imgs/image6.jpeg" caption="Gavião-Branco"}
+:::
+
+:::: {.carousel-item image="assets/imgs/image7.jpeg" caption="Tucano"}
+:::
+
+:::: {.carousel-item image="assets/imgs/image8.jpeg" caption="Thales !?"}
+:::
+
+:::
+
+### Olá! (: Convido você a conhecer o Projeto Jovem Cientista!
+
+O projeto de divulgação científica JOVEM CIENTISTA foi criado em 2019 com o objetivo de elaborar propostas alternativas para conhecimento e divulgação da ciência, com ênfase em desmistificar as ciências nucleares, tanto no âmbito acadêmico como para o público em geral.
+Idealizado e desenvolvido pela equipe do Laboratório de Espectroscopia e Espectrometria das Radiações (LEER), coordenado pela Prof.ª Dr.ª Cibele Bugno Zamboni, localizado no Centro do Reator de Pesquisas do Instituto de Pesquisas Energéticas e Nucleares (CERPq/IPEN), o nosso objetivo é divulgar a ciência em seus diversos ramos, inclusive a Tecnologia Nuclear, através dos seguintes formatos:
+
+- REPORTAGENS: Abordam temas relevantes, em vídeos completos e didáticos, que podem contar com a participação de um especialista na área e explorar importantes estudos científicos.
+- CURIOSIDADES: temas atemporais que, às vezes, parecem de outro mundo. Mas calma: a ciência pode explicar!
+- ENTREVISTAS: é o espaço para se conhecer os Jovens Cientistas! Por meio de um bate-papo, conheça a história, o trabalho e a importante contribuição através de suas pesquisas.
+- MINUTO NUCLEAR: um momento rápido e divertido para se conhecer mais de ciências nucleares.
+- VIDA DE NÊUTRONS: utilizando cartoons e vídeos além de entrevistas com especialistas, as propriedades da Física de nêutrons é abordada, mas sempre com o viés de elucidar o público em geral.
+
+Este modelo de divulgação foi criado em 2019 e teve sua estreia nas redes sociais em 20 de abril, 2020. Em 14 de junho de 2021 foi introduzido o MINUTO NUCLEAR e em 2023,
+no aniversário de 67 anos do IPEN, a VIDA DE NÊUTRONS, ambos idealizados pela pesquisadora Dr.ª Cibele Bugno Zamboni.
+Neste projeto, você é convidado a compartilhar suas experiências científicas e tecnológicas conosco. Venha apresentar a sua pesquisa!
+
+---
+
+#### Equipe
+
+Coordenadora e Editora Geral: Cibele Bugno Zamboni <br>
+Editor e Produtor Geral: Dalton Giovanni <br>
+Entrevistas: Mateus Ramos Almeida <br>
+Comunicação: Larissa Augusta Santos Moura
+
+#### Nossas redes sociais são:
+
+Site – SCIENTIA VINCES – JOVEM CIENTISTA: <a href="https://jovemcientista.com.br/"> jovemcientista.com.br </a><br>
+Youtube – Canal <a href="https://www.youtube.com/channel/UCPcscE4IZx1ZaU8RUvHZw_g"> “Jovem Cientista” </a><br>
+Instagram – <a href="https://www.instagram.com/jovemcientista.com.br"> @jovemcientista.com.br </a><br>
+Facebook – <a href="https://pt-br.facebook.com/jovemcientista.com.br/"> @jovemcientista.com.br </a><br>
+TikTok – <a href="https://www.tiktok.com/@jovemcientista.com.br"> @jovemcientista.com.br </a><br>
+
+##### Mande seu feedback (:
+
+<a href="https://www.instagram.com/jovemcientista.com.br">Instagram</a><br>
+<a href="https://www.youtube.com/channel/UCPcscE4IZx1ZaU8RUvHZw_g">Youtube</a><br>
+
+:::

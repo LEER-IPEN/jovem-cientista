@@ -1,0 +1,58 @@
+---
+title: ""
+pagetitle: "Contato"
+page-layout: full
+toc: false
+---
+
+:::: {.container-texto}
+
+### Editores:
+<br>
+
+##### Cibele Bugno Zamboni
+
+<a href="https://buscatextual.cnpq.br/buscatextual/visualizacv.do?metodo=apresentar&id=K4780860H7"> Currículo Lattes </a><br>
+<a href="https://orcid.org/0000-0001-7766-2692"> ORCID </a><br>
+<a href="https://www.linkedin.com/in/cibele-zamboni-5b950428/"> LinkedIn </a>
+
+##### Dalton Giovanni
+
+<a href="https://buscatextual.cnpq.br/buscatextual/visualizacv.do?metodo=apresentar&id=K4550462D1"> Currículo Lattes </a><br>
+<a href="https://orcid.org/0000-0001-7607-1612"> ORCID </a><br>
+<a href="https://www.linkedin.com/in/daltongiovanni/"> LinkedIn </a>
+
+---
+
+### Colaboradores:
+<br>
+
+##### Larissa Augusta Santos Moura
+Biomédica, Estagiaria LEER/IPEN <br>
+<a href="https://buscatextual.cnpq.br/buscatextual/visualizacv.do?metodo=apresentar&id=K2985074T9"> Currículo Lattes </a><br>
+
+##### Leonardo Dalaqua Junior
+Amazul – Amazônia Azul Tecnologias de Defesa S.A <br>
+Especialista em Energias Alternativas <br>
+<a href="https://www.linkedin.com/in/leonardodalaquajunior"> LinkedIn </a>
+
+##### Marta Lúcia Bognar
+Restauradora do Museu da Polícia Militar do Estado de São Paulo <br>
+<a href="https://www.linkedin.com/in/marta-l%C3%BAcia-bognar-a294b315/"> LinkedIn </a>
+
+##### Marco Antônio Stanojev Pereira
+Pesquisador Associado IPEN na área de Neutrografia <br>
+<a href="https://buscatextual.cnpq.br/buscatextual/visualizacv.do?metodo=apresentar&id=K4792262Y6"> Currículo Lattes </a><br>
+<a href="https://www.linkedin.com/in/marco-a-stanojev-pereira-msc-phd-16b5a03b/"> LinkedIn </a>
+
+##### Mateus Ramos de Almeida
+Mestre em Tecnologia Nuclear, IPEN <br>
+<a href="https://buscatextual.cnpq.br/buscatextual/visualizacv.do?metodo=apresentar&id=K8600548H6"> Currículo Lattes </a><br>
+<a href="https://orcid.org/0000-0002-3478-374X"> ORCID </a><br>
+
+##### Ana Koka
+Mestre em Tecnologia Nuclear, IPEN <br>
+<a href="https://buscatextual.cnpq.br/buscatextual/visualizacv.do?metodo=apresentar&id=K9789927J5"> Currículo Lattes </a><br>
+<a href=""> ORCID </a><br>
+
+::::

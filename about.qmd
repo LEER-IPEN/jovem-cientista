@@ -1,0 +1,16 @@
+---
+title: ""
+pagetitle: "Sobre"
+page-layout: full
+toc: false
+---
+
+:::: {.container-texto}
+
+### CONHEÇA NOSSA HISTÓRIA
+
+O Laboratório de Espectroscopia e Espectrometria das Radiações (LEER), do IPEN-CNEN/SP, sempre foi engajado em divulgar tópicos no âmbito da física nuclear em jornais, livros e revistas. Desde de 1999 vem realizando atividade vinculadas a divulgação e desmistificação das ciências nucleares para alunos do ensino médio por meio da realização de seminários em escolas da rede pública, pela elaboração de vídeos didáticos, bem como a realização de cursos práticos e workshops. A partir de 2005, esta atividade foi ampliada e direcionada também para alunos da graduação de diversas áreas, que passaram a desenvolver monografias no LEER em parcerias com diversas Faculdades, envolvendo áreas que se correlacionam com a área nuclear, tais como, na área da saúde, meio ambiente, medicina, dentre outras.
+
+Em 2019, complementando essas ações, foi criado o projeto JOVEM CIENTISTA com o objetivo de dar maior visibilidade a atividade de divulgação científica realizadas no LEER, utilizando os meios digitais, alcançando também alunos de pós-graduação, bem como o público em geral. Dentro deste contexto, foi criado o site jovem cientista (www.jovemcientista.com.br) que auxilia na divulgação do material didático disponibilizado pelo LEER, além de ser um facilitador na comunicação com o público acadêmico bem como com o público em geral. As atividades realizadas no site contam com a participação de alunos desde iniciação científica até pós-doc e todo material produzido conta com a revisão de colaboradores e especialistas.
+
+::::

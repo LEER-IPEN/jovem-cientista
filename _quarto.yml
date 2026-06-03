@@ -1,0 +1,36 @@
+project:
+  type: website
+  output-dir: "docs"
+
+website:
+  favicon: assets/imgs/favicon.png
+  search: 
+    location: navbar
+    type: overlay
+  navbar:
+    logo: assets/imgs/logo.png
+    left:
+      - href: index.qmd
+        text: Início
+      - text: "|"
+      - href: about.qmd
+        text: Sobre
+      - text: "|"
+      - href: contato.qmd
+        text: Contato
+  page-footer:
+    center: 
+      "Copyright © 2026 Todos os direitos reservados por <br> Jovem Cientista"
+
+filters:
+  - carousel
+
+format:
+  html:
+    theme:
+      - lux
+      - brand
+    css: styles.css
+    toc: true
+
+
