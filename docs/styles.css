@@ -21,13 +21,21 @@
 
 .nav-footer {
     width: 100%;
-    padding: 10px;
+    padding-top: 2rem;
+    padding: 2rem 10px;
     display: flex;
     justify-content: center;
     align-items: center;
     background: #000000;
     color: white;
     box-sizing: border-box;
+}
+
+.nav-footer img {
+  width: 5%;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-right: 7px;
 }
 
 .carousel {
@@ -64,4 +72,26 @@
   color: white !important;
   font-size: 1.4rem;
   font-weight: 500;
+}
+
+.bloco-imagem {
+  display: block;
+  width: max-content; /* Faz com que a div tenha o tamanho exato da imagem */
+  max-width: 75%;     /* Define o limite de largura que você usava antes na imagem */
+  margin-left: auto;  /* Margens automáticas nas laterais */
+  margin-right: auto; /* garantem a centralização do bloco na página */
+  text-align: left;   /* Alinha o texto estritamente na borda esquerda da div (onde a foto começa) */
+}
+
+.bloco-imagem img {
+  display: block;
+  width: 100%;
+  height: auto;
+  margin-bottom: 0.5rem;
+}
+
+.creditos-imagem {
+  margin: 0;
+  font-size: 0.85rem;
+  color: #555;
 }

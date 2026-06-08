@@ -13,6 +13,9 @@ website:
       - href: index.qmd
         text: Início
       - text: "|"
+      - href: curiosidades.qmd
+        text: Curiosidades
+      - text: "|"
       - href: about.qmd
         text: Sobre
       - text: "|"
@@ -20,7 +23,11 @@ website:
         text: Contato
   page-footer:
     center: 
-      "Copyright © 2026 Todos os direitos reservados por <br> Jovem Cientista"
+      "Copyright © 2026 - Todos os direitos reservados por Jovem Cientista <br><br> Mande seu feedback (: <br>
+      <a href='https://www.instagram.com/jovemcientista.com.br'><img src='/assets/imgs/icons/instagram-icon.png'></a>
+      <a href='https://www.youtube.com/channel/UCPcscE4IZx1ZaU8RUvHZw_g'><img src='/assets/imgs/icons/youtube-icon.png'></a>
+      <a href='https://pt-br.facebook.com/jovemcientista.com.br/'><img src='/assets/imgs/icons/face-icon.png'></a>
+      <a href='https://www.tiktok.com/@jovemcientista.com.br'><img src='/assets/imgs/icons/tik-tok-icon.png'></a>"
 
 filters:
   - carousel
