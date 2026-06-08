@@ -3,7 +3,7 @@ project:
   output-dir: "docs"
 
 website:
-  favicon: assets/imgs/favicon.png
+  favicon: /assets/imgs/icons/favicon.png
   search: 
     location: navbar
     type: overlay
