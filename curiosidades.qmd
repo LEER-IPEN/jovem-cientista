@@ -1,0 +1,21 @@
+---
+pagetitle: "Curiosidades e Reportagens - LEER"
+page-layout: full
+toc: false
+listing:
+  contents: posts          # O Quarto vai ler todos os arquivos desta pasta
+  sort: "date desc"        # Mostra os posts mais recentes primeiro
+  type: grid               # Layout em cartões (estilo grid). Pode usar 'default' ou 'table'
+  categories: true         # Ativa filtros por categorias (ex: "Curiosidades", "FRX", "História")
+  sort-ui: false
+  filter-ui: true          # Cria uma barra de pesquisa interna para as reportagens
+  fields: [image, date, title, description, categories] # O que vai aparecer no card
+---
+
+:::: {.container-texto-indice}
+
+# Curiosidades & Reportagens Científicas
+
+Explore nossos artigos, investigações e curiosidades sobre o mundo da ciência.
+
+::::

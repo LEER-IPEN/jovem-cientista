@@ -10,7 +10,7 @@ body-classes: homepage
 
 :::: {.carousel}
 
-:::: {.carousel-item image="assets/imgs/image.jpeg" caption="Átomo"}
+:::: {.carousel-item image="assets/imgs/image.jpeg" caption="SCIENTIA VINCES"}
 :::
 
 :::: {.carousel-item image="assets/imgs/image2.jpeg" caption="Carcará"}
@@ -67,10 +67,5 @@ Youtube – Canal <a href="https://www.youtube.com/channel/UCPcscE4IZx1ZaU8RUvHZ
 Instagram – <a href="https://www.instagram.com/jovemcientista.com.br"> @jovemcientista.com.br </a><br>
 Facebook – <a href="https://pt-br.facebook.com/jovemcientista.com.br/"> @jovemcientista.com.br </a><br>
 TikTok – <a href="https://www.tiktok.com/@jovemcientista.com.br"> @jovemcientista.com.br </a><br>
-
-##### Mande seu feedback (:
-
-<a href="https://www.instagram.com/jovemcientista.com.br">Instagram</a><br>
-<a href="https://www.youtube.com/channel/UCPcscE4IZx1ZaU8RUvHZw_g">Youtube</a><br>
 
 :::

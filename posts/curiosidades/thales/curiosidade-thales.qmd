@@ -1,0 +1,24 @@
+---
+title: "BOMBA: Thales Zanin é encontrado perambulando pelas dependências do IPEN"
+description: "Olha que engraçado, pessoal! Como ele foi parar lá?"
+date: "2026-06-08"
+categories: [Curiosidades, Thales, Fofoca]
+image: "image8.jpeg" # Foto de capa do post
+---
+
+:::: {.container-texto}
+
+<div class="bloco-imagem">
+  <img src="image8.jpeg" alt="Thales">
+  <p class="creditos-imagem">
+    Fonte: do autor
+  </p>
+</div>
+<br>
+
+Após semanas de desaparecimento, que curiosamente coincidem com a última semana de feriado, o aluno de Doutorado Thales Zanin foi finalmente visto. E estava estacionando seu carro
+ hoje pela manhã no estacionamento do Ipen, por volta das 10 horas.
+
+Fomos atrás dele para obter mais detalhes do sumiço, mas aparentemente ele não gosta muito de paparazzis. Olha a cara dele de bravo ai encima.
+
+:::
