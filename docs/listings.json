@@ -2,7 +2,9 @@
   {
     "listing": "/curiosidades.html",
     "items": [
-      "/posts/curiosidades/aves/aves.html"
+      "/posts/curiosidades/aves/aves.html",
+      "/posts/curiosidades/thales/curiosidade-thales.html",
+      "/posts/curiosidades/ultramar/curiosidade-ultramar.html"
     ]
   }
 ]
