@@ -3,6 +3,7 @@ title: ""
 pagetitle: "Sobre"
 page-layout: full
 toc: false
+body-classes: sem-comentarios
 ---
 
 :::: {.container-texto}
