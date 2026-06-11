@@ -3,7 +3,7 @@ title: ""
 pagetitle: "Jovem Cientista"
 page-layout: full
 toc: false
-body-classes: homepage
+body-classes: homepage sem-comentarios
 ---
 
 :::: {.container-texto}

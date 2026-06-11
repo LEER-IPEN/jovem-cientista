@@ -10,6 +10,7 @@ listing:
   sort-ui: false
   filter-ui: true          # Cria uma barra de pesquisa interna para as reportagens
   fields: [image, date, title, description, categories] # O que vai aparecer no card
+body-classes: sem-comentarios
 ---
 
 :::: {.container-texto-indice}

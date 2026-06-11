@@ -95,3 +95,7 @@
   font-size: 0.85rem;
   color: #555;
 }
+
+body.sem-comentarios #disqus_thread {
+    display: none !important;
+}

@@ -190,6 +190,34 @@ Fonte: do autor
 
 
 </main> <!-- /main -->
+<div id="disqus_thread"></div>
+
+<script>
+
+    var disqus_config = function () {
+
+        this.page.url = window.location.href;  // Pega o link atual da página automaticamente
+
+        this.page.identifier = window.location.pathname; // Identificador único da página
+
+    };
+
+    (function() { // NÃO EDITE ESTA PARTE
+
+        var d = document, s = d.createElement('script');
+
+        s.src = 'https://jovemcientista.disqus.com/embed.js'; // 🔹 Troque pelo seu shortname
+
+        s.setAttribute('data-timestamp', +new Date());
+
+        (d.head || d.body).appendChild(s);
+
+    })();
+
+</script>
+
+<noscript>Por favor, ative o JavaScript para visualizar os <a href="https://disqus.com/?ref_noscript">comentários mantidos por Disqus.</a></noscript>
+
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     const icon = "";
