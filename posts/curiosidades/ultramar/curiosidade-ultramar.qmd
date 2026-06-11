@@ -1,0 +1,21 @@
+---
+title: "O mistério do Azul Ultramar: O pigmento mais caro da história"
+description: "Descubra como a ciência ajuda a identificar o lápis-lazúli em pinturas medievais através de análises químicas."
+date: "2026-06-08"
+categories: [Curiosidades, Pigmentos, História]
+image: "image6.jpeg" # Foto de capa do post
+---
+
+:::: {.container-texto}
+
+<div class="bloco-imagem">
+  <img src="image6.jpeg" alt="Ave">
+  <p class="creditos-imagem">
+    Fonte: do autor
+  </p>
+</div>
+<br>
+
+O Azul Ultramar era extraído de uma pedra preciosa chamada Lápis-lazúli... Aqui você continua escrevendo a sua reportagem científica utilizando o Markdown normal, gráficos do Quarto, tabelas ou códigos, exatamente como preferir.
+
+:::
