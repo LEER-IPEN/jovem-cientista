@@ -1,8 +1,13 @@
 /* css styles */
+
 .container-texto {
   max-width: 1000px;
   margin: 0 auto;
   padding: 0 2rem;
+  text-align: justify;
+}
+
+.texto-justificado {
   text-align: justify;
 }
 

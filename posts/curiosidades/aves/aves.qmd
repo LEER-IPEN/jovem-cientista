@@ -2,12 +2,16 @@
 title: "Os pássaros que passam desepercebidos pela USP"
 description: "Catalogação das aves encontradas pela USP."
 date: "2026-06-11"
+author: "José Vinicius Gonçalves"
 categories: [Curiosidades, Aves]
 image: "image5.jpeg" # Foto de capa do post
+reading-time: true
+toc: true
 ---
 
-:::: {.container-texto}
+:::: {.texto-justificado}
 
+<br>
 <div class="bloco-imagem">
   <img src="image5.jpeg" alt="Ave">
   <p class="creditos-imagem">
@@ -56,4 +60,4 @@ A natureza, através da evolução, resolveu um problema complexo de engenharia 
 #### O que você achou dessa curiosidade?
 Você já conseguiu flagrar um pica-pau trabalhando de perto? Se tiver alguma dúvida ou sugestão de tema, deixe seu comentário aqui embaixo usando sua conta do Google!
 
-:::
+::::

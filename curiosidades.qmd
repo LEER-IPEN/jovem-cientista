@@ -9,14 +9,12 @@ listing:
   categories: true         # Ativa filtros por categorias (ex: "Curiosidades", "FRX", "História")
   sort-ui: false
   filter-ui: true          # Cria uma barra de pesquisa interna para as reportagens
-  fields: [image, date, title, description, categories] # O que vai aparecer no card
+  fields: [image, date, title, description, author, categories, reading-time] # O que vai aparecer no card
 body-classes: sem-comentarios
 ---
-
-:::: {.container-texto-indice}
 
 # Curiosidades & Reportagens Científicas
 
 Explore nossos artigos, investigações e curiosidades sobre o mundo da ciência.
 
-::::
+
