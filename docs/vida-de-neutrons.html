@@ -6,9 +6,8 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="description" content="Olha que engraçado, pessoal! Como ele foi parar lá?">
 
-<title>BOMBA: Thales Zanin é encontrado perambulando pelas dependências do IPEN</title>
+<title>Vida de Neutrons</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -24,25 +23,27 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="../../../site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="../../../site_libs/quarto-nav/headroom.min.js"></script>
-<script src="../../../site_libs/clipboard/clipboard.min.js"></script>
-<script src="../../../site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="../../../site_libs/quarto-search/fuse.min.js"></script>
-<script src="../../../site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="../../../">
-<link href="../../..//assets/imgs/icons/favicon.png" rel="icon" type="image/png">
-<script src="../../../site_libs/quarto-html/quarto.js" type="module"></script>
-<script src="../../../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
-<script src="../../../site_libs/quarto-html/axe/axe-check.js" type="module"></script>
-<script src="../../../site_libs/quarto-html/popper.min.js"></script>
-<script src="../../../site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="../../../site_libs/quarto-html/anchor.min.js"></script>
-<link href="../../../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../../../site_libs/quarto-html/quarto-syntax-highlighting-ed96de9b727972fe78a7b5d16c58bf87.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="../../../site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="../../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../../../site_libs/bootstrap/bootstrap-cc1d64809b8ed731f92ea1275fe9f05b.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script src="site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="site_libs/quarto-nav/headroom.min.js"></script>
+<script src="site_libs/clipboard/clipboard.min.js"></script>
+<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="site_libs/quarto-search/fuse.min.js"></script>
+<script src="site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="./">
+<link href=".//assets/imgs/icons/favicon.png" rel="icon" type="image/png">
+<script src="site_libs/quarto-listing/list.min.js"></script>
+<script src="site_libs/quarto-listing/quarto-listing.js"></script>
+<script src="site_libs/quarto-html/quarto.js" type="module"></script>
+<script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="site_libs/quarto-html/axe/axe-check.js" type="module"></script>
+<script src="site_libs/quarto-html/popper.min.js"></script>
+<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="site_libs/quarto-html/anchor.min.js"></script>
+<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-ed96de9b727972fe78a7b5d16c58bf87.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="site_libs/bootstrap/bootstrap-cc1d64809b8ed731f92ea1275fe9f05b.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -69,21 +70,79 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Procurar"
   }
 }</script>
+<script>
 
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-listing .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
 
-<link rel="stylesheet" href="../../../styles.css">
+    const options = {
+      valueNames: ['listing-image','listing-date','listing-title','listing-description','listing-author','listing-categories','listing-reading-time',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  </script>
+
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
+
+<link rel="stylesheet" href="styles.css">
 </head>
 
-<body class="nav-fixed quarto-light">
+<body class="nav-fixed sem-comentarios quarto-light">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a href="../../../index.html" class="navbar-brand navbar-brand-logo">
-    <img src="../../../assets/imgs/logo.png" alt="" class="navbar-logo light-content">
-    <img src="../../../assets/imgs/logo.png" alt="" class="navbar-logo dark-content">
+    <a href="./index.html" class="navbar-brand navbar-brand-logo">
+    <img src="./assets/imgs/logo.png" alt="" class="navbar-logo light-content">
+    <img src="./assets/imgs/logo.png" alt="" class="navbar-logo dark-content">
     </a>
   </div>
             <div id="quarto-search" class="" title="Procurar"></div>
@@ -93,19 +152,23 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="../../../index.html"> 
+    <a class="nav-link" href="./index.html"> 
 <span class="menu-text">Início</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../../../curiosidades.html"> 
+    <a class="nav-link" href="./curiosidades.html"> 
 <span class="menu-text">Curiosidades</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../../../about.html"> 
+    <a class="nav-link active" href="./vida-de-neutrons.html" aria-current="page"> 
+<span class="menu-text">Vida de Neutrons</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./about.html"> 
 <span class="menu-text">Sobre</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../../../contato.html"> 
+    <a class="nav-link" href="./contato.html"> 
 <span class="menu-text">Contato</span></a>
   </li>  
 </ul>
@@ -116,65 +179,131 @@ ul.task-list li input[type="checkbox"] {
     </nav>
 </header>
 <!-- content -->
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
-        
-    </div>
+    
 <!-- main -->
-<main class="content" id="quarto-document-content">
-
-<header id="title-block-header" class="quarto-title-block default">
-<div class="quarto-title">
-<h1 class="title">BOMBA: Thales Zanin é encontrado perambulando pelas dependências do IPEN</h1>
-  <div class="quarto-categories">
-    <div class="quarto-category">Curiosidades</div>
-    <div class="quarto-category">Thales</div>
-    <div class="quarto-category">Fofoca</div>
-  </div>
-  </div>
-
-<div>
-  <div class="description">
-    Olha que engraçado, pessoal! Como ele foi parar lá?
-  </div>
-</div>
+<main class="content column-page" id="quarto-document-content"><header id="title-block-header" class="quarto-title-block"></header>
 
 
-<div class="quarto-title-meta">
 
-    
-    <div>
-    <div class="quarto-title-meta-heading">Data de Publicação</div>
-    <div class="quarto-title-meta-contents">
-      <p class="date">8 de junho de 2026</p>
+
+<section id="vida-de-neutrons" class="level1">
+<h1>Vida de Neutrons</h1>
+<p>Explore nossos artigos, investigações e curiosidades sobre o mundo da ciência.</p>
+
+
+
+</section>
+
+<div class="quarto-listing quarto-listing-container-grid" id="listing-listing">
+<div class="listing-actions-group">
+    <div class="input-group input-group-sm quarto-listing-filter">
+      <span class="input-group-text"><i class="bi bi-search"></i></span>
+      <input type="text" class="search form-control" placeholder="Filtro">
     </div>
-  </div>
-  
-    
-  </div>
-  
-
-
-</header>
-
-
-<div class="container-texto">
-<div class="bloco-imagem">
-<img src="image8.jpeg" alt="Thales">
-<p class="creditos-imagem">
-Fonte: do autor
+</div>
+<div class="list grid quarto-listing-cols-3">
+<div class="g-col-1" data-index="0" data-categories="VmlkYSUyMGRlJTIwTmV1dHJvbnMlMkNJUEVO" data-listing-date-sort="1695870000000" data-listing-file-modified-sort="1785354774147" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="97">
+<a href="./posts/vida-de-neutrons/de-volta-para-o-futuro-e-a-fisica-nuclear/de-volta-para-o-futuro-e-a-fisica-nuclear.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="./posts/vida-de-neutrons/de-volta-para-o-futuro-e-a-fisica-nuclear/delorean.png" class="thumbnail-image card-img" style="height: 150px;">
 </p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+De volta para o futuro e a Física Nuclear: da Fissão à Fusão
+</h5>
+<div class="listing-reading-time card-text text-muted">1 minutos</div>
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('VmlkYSUyMGRlJTIwTmV1dHJvbnM='); return false;">Vida de Neutrons</div>
+
+<div class="listing-category" onclick="window.quartoListingCategory('SVBFTg=='); return false;">IPEN</div>
+
 </div>
-<p><br></p>
-<p>Após semanas de desaparecimento, que curiosamente coincidem com a última semana de feriado, o aluno de Doutorado Thales Zanin foi finalmente visto. E estava estacionando seu carro hoje pela manhã no estacionamento do Ipen, por volta das 10 horas.</p>
-<p>Fomos atrás dele para obter mais detalhes do sumiço, mas aparentemente ele não gosta muito de paparazzis. Olha a cara dele de bravo ai encima.</p>
+<div class="card-text listing-description delink">
+<p>Como um dos carros mais famosos do cinema é movido?</p>
 </div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+Jovem Cientista
+</div>
+<div class="listing-date">
+28 de set. de 2023
+</div>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="1" data-categories="VmlkYSUyMGRlJTIwTmV1dHJvbnMlMkNJUEVO" data-listing-date-sort="1695870000000" data-listing-file-modified-sort="1785354242586" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="416">
+<a href="./posts/vida-de-neutrons/fotografando-com-neutrons/fotografando-com-neutrons.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="./posts/vida-de-neutrons/fotografando-com-neutrons/fotografando-com-neutrons.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Fotografando com Neutrons
+</h5>
+<div class="listing-reading-time card-text text-muted">3 minutos</div>
+<div class="listing-categories">
 
+<div class="listing-category" onclick="window.quartoListingCategory('VmlkYSUyMGRlJTIwTmV1dHJvbnM='); return false;">Vida de Neutrons</div>
 
+<div class="listing-category" onclick="window.quartoListingCategory('SVBFTg=='); return false;">IPEN</div>
 
-</main> <!-- /main -->
+</div>
+<div class="card-text listing-description delink">
+<p>Fotos de Neutrons!</p>
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+Cibele Zamboni
+</div>
+<div class="listing-date">
+28 de set. de 2023
+</div>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="2" data-categories="VmlkYSUyMGRlJTIwTmV1dHJvbnMlMkNJUEVO" data-listing-date-sort="1693364400000" data-listing-file-modified-sort="1785353616318" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="95">
+<a href="./posts/vida-de-neutrons/os-67-anos-do-ipen-e-a-vida-dos-neutrons/os-67-anos-do-ipen-e-a-vida-dos-neutrons.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="./posts/vida-de-neutrons/os-67-anos-do-ipen-e-a-vida-dos-neutrons/67anosIpen.jpg" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Os 67 anos do IPEN e a vida dos nêutrons
+</h5>
+<div class="listing-reading-time card-text text-muted">1 minutos</div>
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('VmlkYSUyMGRlJTIwTmV1dHJvbnM='); return false;">Vida de Neutrons</div>
+
+<div class="listing-category" onclick="window.quartoListingCategory('SVBFTg=='); return false;">IPEN</div>
+
+</div>
+<div class="card-text listing-description delink">
+<p>67º aniversário do IPEN</p>
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+Jovem Cientista
+</div>
+<div class="listing-date">
+30 de ago. de 2023
+</div>
+</div>
+</div>
+</div></a>
+</div>
+</div>
+<div class="listing-no-matching d-none">Nenhum item correspondente</div>
+</div></main> <!-- /main -->
 <div id="disqus_thread"></div>
 
 <script>
@@ -610,7 +739,7 @@ Fonte: do autor
       &nbsp;
     </div>   
     <div class="nav-footer-center">
-<p>Copyright © 2026 - Todos os direitos reservados por Jovem Cientista <br><br> Mande seu feedback (: <br> <a href="https://www.instagram.com/jovemcientista.com.br"><img src="../../../assets/imgs/icons/instagram-icon.png"></a> <a href="https://www.youtube.com/channel/UCPcscE4IZx1ZaU8RUvHZw_g"><img src="../../../assets/imgs/icons/youtube-icon.png"></a> <a href="https://pt-br.facebook.com/jovemcientista.com.br/"><img src="../../../assets/imgs/icons/face-icon.png"></a> <a href="https://www.tiktok.com/@jovemcientista.com.br"><img src="../../../assets/imgs/icons/tik-tok-icon.png"></a></p>
+<p>Copyright © 2026 - Todos os direitos reservados por Jovem Cientista <br><br> Mande seu feedback (: <br> <a href="https://www.instagram.com/jovemcientista.com.br"><img src="./assets/imgs/icons/instagram-icon.png"></a> <a href="https://www.youtube.com/channel/UCPcscE4IZx1ZaU8RUvHZw_g"><img src="./assets/imgs/icons/youtube-icon.png"></a> <a href="https://pt-br.facebook.com/jovemcientista.com.br/"><img src="./assets/imgs/icons/face-icon.png"></a> <a href="https://www.tiktok.com/@jovemcientista.com.br"><img src="./assets/imgs/icons/tik-tok-icon.png"></a></p>
 </div>
     <div class="nav-footer-right">
       &nbsp;

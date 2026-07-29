@@ -1,0 +1,31 @@
+---
+title: "De volta para o futuro e a Física Nuclear: da Fissão à Fusão"
+description: "Como um dos carros mais famosos do cinema é movido?"
+date: "2023-09-28"
+author: "Jovem Cientista"
+categories: [Vida de Neutrons, IPEN]
+image: "delorean.png" # Foto de capa do post
+reading-time: true
+toc: true
+---
+
+:::: {.texto-justificado}
+
+<br>
+<div class="bloco-imagem">
+  <img src="delorean.png" alt="Delorean do filme - De Volta para o Futuro">
+  <p class="creditos-imagem">
+    Fonte: do autor
+  </p>
+</div>
+<br>
+
+No primeiro filme da trilogia De Volta para Futuro, o Delorean (carro transformado em máquina do tempo pelo Dr Emmett Brown) começa usando a tecnologia baseada na fissão nuclear para as primeiras viagens. No final do filme essas viagens já são feitas por fusão nuclear .
+
+Você tinha percebido a física nuclear citada nesse filme? Será que vamos conseguir a fusão com fonte de energia limpa em um futuro próximo?
+
+---
+
+{{< video https://www.youtube.com/watch?v=YGomzNNQi50 >}}
+
+::::

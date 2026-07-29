@@ -1,5 +1,5 @@
 ---
-pagetitle: "Curiosidades e Reportagens - LEER"
+pagetitle: "Vida de Neutrons"
 page-layout: full
 toc: false
 listing:
@@ -7,14 +7,14 @@ listing:
   sort: "date desc"        # Mostra os posts mais recentes primeiro
   type: grid               # Layout em cartões (estilo grid). Pode usar 'default' ou 'table'
   include:
-    categories: "Curiosidades"     # Ativa filtros por categorias (ex: "Curiosidades", "FRX", "História")
+    categories: "Vida de Neutrons"          # Ativa filtros por categorias (ex: "Curiosidades", "FRX", "História")
   sort-ui: false
   filter-ui: true          # Cria uma barra de pesquisa interna para as reportagens
   fields: [image, date, title, description, author, categories, reading-time] # O que vai aparecer no card
 body-classes: sem-comentarios
 ---
 
-# Curiosidades & Reportagens Científicas
+# Vida de Neutrons
 
 Explore nossos artigos, investigações e curiosidades sobre o mundo da ciência.
 

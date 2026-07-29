@@ -43,6 +43,28 @@
   margin-right: 7px;
 }
 
+/* Força o container do banner a ocupar 100% da largura visual do monitor */
+.banner-full {
+  width: 100vw;
+  position: relative;
+  left: 50%;
+  right: 50%;
+  margin-left: -50vw;
+  margin-right: -50vw;
+  margin-top: -60px; /* Ajuste para colar na barra de navegação caso haja espaçamento */
+  overflow: hidden;
+}
+
+/* Garante que a imagem preencha o espaço sem distorcer */
+.banner-full img {
+  width: 100%;
+  height: auto;
+  max-height: 350px; /* Altere este valor para controlar a altura do banner na tela */
+  object-fit: cover; /* Recorta a imagem inteligentemente se ela for muito alta */
+  object-position: 0% 50%;
+  display: block;
+}
+
 .carousel {
   width: 100%;
   aspect-ratio: 16 / 8;
@@ -82,7 +104,7 @@
 .bloco-imagem {
   display: block;
   width: max-content; /* Faz com que a div tenha o tamanho exato da imagem */
-  max-width: 75%;     /* Define o limite de largura que você usava antes na imagem */
+  max-width: 95%;     /* Define o limite de largura que você usava antes na imagem */
   margin-left: auto;  /* Margens automáticas nas laterais */
   margin-right: auto; /* garantem a centralização do bloco na página */
   text-align: left;   /* Alinha o texto estritamente na borda esquerda da div (onde a foto começa) */

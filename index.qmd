@@ -8,10 +8,11 @@ body-classes: homepage sem-comentarios
 
 :::: {.container-texto}
 
-:::: {.carousel}
+<div class="banner-full">
+  <img src="assets/imgs/image.jpeg" alt="SCIENTIA VINCES">
+</div>
 
-:::: {.carousel-item image="assets/imgs/image.jpeg" caption="SCIENTIA VINCES"}
-::::
+:::: {.carousel}
 
 :::: {.carousel-item image="assets/imgs/image2.jpeg" caption="Carcará"}
 ::::
