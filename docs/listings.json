@@ -1,10 +1,16 @@
 [
   {
+    "listing": "/vida-de-neutrons.html",
+    "items": [
+      "/posts/vida-de-neutrons/de-volta-para-o-futuro-e-a-fisica-nuclear/de-volta-para-o-futuro-e-a-fisica-nuclear.html",
+      "/posts/vida-de-neutrons/fotografando-com-neutrons/fotografando-com-neutrons.html",
+      "/posts/vida-de-neutrons/os-67-anos-do-ipen-e-a-vida-dos-neutrons/os-67-anos-do-ipen-e-a-vida-dos-neutrons.html"
+    ]
+  },
+  {
     "listing": "/curiosidades.html",
     "items": [
-      "/posts/curiosidades/aves/aves.html",
-      "/posts/curiosidades/thales/curiosidade-thales.html",
-      "/posts/curiosidades/ultramar/curiosidade-ultramar.html"
+      "/posts/curiosidades/aves/aves.html"
     ]
   }
 ]
