@@ -1,0 +1,25 @@
+---
+title: "Feliz Natal"
+description: "Feliz Natal!"
+date: "2023-12-16"
+author: "Jovem Cientista"
+categories: [Vida de Neutrons, IPEN]
+image: "feliz-natal.jpg" # Foto de capa do post
+reading-time: true
+toc: true
+---
+
+:::: {.texto-justificado}
+
+<br>
+<div class="bloco-imagem">
+  <img src="feliz-natal.jpg" alt="Feliz Natal">
+  <p class="creditos-imagem">
+    Fonte: do autor
+  </p>
+</div>
+<br>
+
+O Nêutron e toda a equipe do jovem cientista desejam um Natal repleto de descobertas incríveis, experimentos cheios de alegria e muita energia positiva! Que a magia do Natal ilumine seus caminhos e que cada descoberta seja um presente único. Feliz Natal! 🔬🎁🎄🎅🤶☃️
+
+::::

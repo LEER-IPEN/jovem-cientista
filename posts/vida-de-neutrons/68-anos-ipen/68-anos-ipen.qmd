@@ -1,0 +1,29 @@
+---
+title: "68 anos do IPEN!"
+description: "68 anos do IPEN!"
+date: "2024-08-29"
+author: "Cibele Zamboni e Dalton Giovanni"
+categories: [Vida de Neutrons, IPEN]
+image: "68-anos-ipen.png" # Foto de capa do post
+reading-time: true
+toc: true
+---
+
+:::: {.texto-justificado}
+
+<br>
+<div class="bloco-imagem">
+  <img src="68-anos-ipen.png" alt="68 anos do IPEN">
+  <p class="creditos-imagem">
+    Fonte: do autor
+  </p>
+</div>
+<br>
+
+Parabéns ao IPEN pelos 68 anos de inovação e excelência em pesquisas!
+
+---
+
+{{< video https://www.youtube.com/watch?v=EwdkLezjgw4 >}}
+
+::::

@@ -1,5 +1,5 @@
 ---
-pagetitle: "Vida de Neutrons"
+pagetitle: "Vida de Nêutrons"
 page-layout: full
 toc: false
 listing:
@@ -14,7 +14,7 @@ listing:
 body-classes: sem-comentarios
 ---
 
-# Vida de Neutrons
+# Vida de Nêutrons
 
 Explore nossos artigos, investigações e curiosidades sobre o mundo da ciência.
 
