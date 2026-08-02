@@ -1,0 +1,21 @@
+---
+pagetitle: "Reportagens"
+page-layout: full
+toc: false
+listing:
+  contents: posts          # O Quarto vai ler todos os arquivos desta pasta
+  sort: "date desc"        # Mostra os posts mais recentes primeiro
+  type: grid               # Layout em cartões (estilo grid). Pode usar 'default' ou 'table'
+  include:
+    categories: "Reportagens"          # Ativa filtros por categorias (ex: "Curiosidades", "FRX", "História")
+  sort-ui: false
+  filter-ui: true          # Cria uma barra de pesquisa interna para as reportagens
+  fields: [image, date, title, description, author, categories, reading-time] # O que vai aparecer no card
+body-classes: sem-comentarios
+---
+
+# Reportagens
+
+Explore nossas reportagens.
+
+

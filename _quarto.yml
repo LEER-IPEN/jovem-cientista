@@ -14,6 +14,8 @@ website:
         text: Início
       - href: curiosidades.qmd
         text: Curiosidades
+      - href: reportagens.qmd
+        text: Reportagens
       - href: vida-de-neutrons.qmd
         text: Vida de Nêutrons
       - href: about.qmd

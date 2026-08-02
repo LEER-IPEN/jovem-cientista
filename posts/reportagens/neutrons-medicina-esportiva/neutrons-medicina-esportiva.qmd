@@ -1,0 +1,48 @@
+---
+title: "Os nêutrons e os benefícios na medicina esportiva"
+description: "Os benefícios do uso dos nêutrons na Medicina Esportiva."
+date: "2020-09-30"
+author: "Jovem Cientista"
+categories: [Reportagens, IPEN]
+image: "nutricional.png" # Foto de capa do post
+reading-time: true
+toc: true
+---
+
+:::: {.texto-justificado}
+
+<br>
+<div class="bloco-imagem">
+  <img src="nutricional.png" alt="Nutricional">
+  <p class="creditos-imagem">
+    Fonte: do autor
+  </p>
+</div>
+<br>
+
+Neste vídeo os pesquisadores Cibele Bugno Zamboni e Dalton N. S. Giovanni, que
+trabalham no Centro do Reator de Pesquisa do IPEN “Instituto de Pesquisas
+Energéticas e Nucleares”, falam a respeito dos benefícios do uso dos nêutrons na
+Medicina Esportiva.
+
+O IPEN localiza-se no Campus da Universidade de São Paulo (USP-SP) e ocupa área de
+500.000 m² , onde o Reator Nuclear do IPEN (IEA-R1, tipo piscina – 5MW) esta instalado.
+
+Este reator entrou em operação em 1957, tendo sido o primeiro reator nuclear a
+funcionar no hemisfério sul, proporcionando uma grande variedade de pesquisas em
+diversos campos incluindo Medicina, Engenharia e Indústria, dentre outros. Neste
+vídeo veja detalhes de como essa pesquisa foi realizada e descubra como os nêutrons podem ajudar os atletas.
+
+---
+
+{{< video https://www.youtube.com/watch?v=JK7goUHNTW0 >}}
+
+Autores:
+
+Cibele Bugno Zamboni
+Física e Pesquisadora no Instituto de Pesquisas Energéticas e Nucleares
+
+Dalton Giovanni
+Farmacêutico  e Pesquisador Associado no Instituto de Pesquisas Energéticas e Nucleares
+
+::::
