@@ -24,5 +24,17 @@
     "items": [
       "/posts/curiosidades/aves/aves.html"
     ]
+  },
+  {
+    "listing": "/reportagens.html",
+    "items": [
+      "/posts/reportagens/reatores-nucleares-sociedade/reatores-nucleares-sociedade.html",
+      "/posts/reportagens/mulheres-que-voam/mulheres-que-voam.html",
+      "/posts/reportagens/radiacao-obas/radiacao-obras.html",
+      "/posts/reportagens/antartida/antartida.html",
+      "/posts/reportagens/ciencia-restauro-mercado/ciencia-restauro-mercado.html",
+      "/posts/reportagens/ciencia-restauro-pinturas/ciencia-restauro-pinturas.html",
+      "/posts/reportagens/neutrons-medicina-esportiva/neutrons-medicina-esportiva.html"
+    ]
   }
 ]
