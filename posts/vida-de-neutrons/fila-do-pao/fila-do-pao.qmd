@@ -1,0 +1,29 @@
+---
+title: "Quem sou eu na fila do pão?"
+description: "Quão pequeno somos em relação ao universo?"
+date: "2024-06-02"
+author: "Cibele Zamboni e Dalton Giovanni"
+categories: [Vida de Neutrons, IPEN]
+image: "fila-do-pao.png" # Foto de capa do post
+reading-time: true
+toc: true
+---
+
+:::: {.texto-justificado}
+
+<br>
+<div class="bloco-imagem">
+  <img src="fila-do-pao.png" alt="Fila do Pao">
+  <p class="creditos-imagem">
+    Fonte: do autor
+  </p>
+</div>
+<br>
+
+Se você se acha pequeno em relação ao cosmo, imagine o nêutron.
+
+---
+
+{{< video https://www.youtube.com/watch?v=sMvNo255UGM >}}
+
+::::

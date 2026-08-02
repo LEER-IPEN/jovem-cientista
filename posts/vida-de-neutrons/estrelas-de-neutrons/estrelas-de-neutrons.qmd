@@ -1,0 +1,27 @@
+---
+title: "Estrelas de Nêutrons"
+description: "O que são Estrelas de Nêutrons?"
+date: "2025-08-28"
+author: "Cibele Zamboni"
+categories: [Vida de Neutrons, IPEN]
+image: "estrelas-de-neutrons.jpeg" # Foto de capa do post
+reading-time: true
+toc: true
+---
+
+:::: {.texto-justificado}
+
+<br>
+<div class="bloco-imagem">
+  <img src="estrelas-de-neutrons.jpeg" alt="Estrelas de Nêutrons">
+  <p class="creditos-imagem">
+    Fonte: do autor
+  </p>
+</div>
+<br>
+
+---
+
+{{< video https://www.youtube.com/watch?v=buwgshqD0ak >}}
+
+::::

@@ -1,0 +1,42 @@
+---
+title: "Vida de Nêutrons – Feliz dia do Samba!"
+description: "Feliz dia do Samba!"
+date: "2024-12-02"
+author: "Cibele Zamboni"
+categories: [Vida de Neutrons, IPEN]
+image: "dia-do-samba.jpg" # Foto de capa do post
+reading-time: true
+toc: true
+---
+
+:::: {.texto-justificado}
+
+<br>
+<div class="bloco-imagem">
+  <img src="dia-do-samba.jpg" alt="Dia do Samba">
+  <p class="creditos-imagem">
+    Fonte: do autor
+  </p>
+</div>
+<br>
+
+Vida de Nêutrons
+
+<br>
+<div class="bloco-imagem">
+  <img src="dia-do-samba-1.png" alt="Quadrinho Dia do Samba 1">
+  <img src="dia-do-samba-2.png" alt="Quadrinho Dia do Samba 2">
+  <img src="dia-do-samba-3.png" alt="Quadrinho Dia do Samba 3">
+  <p class="creditos-imagem">
+    Fonte: do autor
+  </p>
+</div>
+<br>
+
+O Nêutron também se diverte. Conheça a história do samba, assista nosso vídeo.
+
+---
+
+{{< video https://www.youtube.com/watch?v=iE4BGyEnlAU >}}
+
+::::

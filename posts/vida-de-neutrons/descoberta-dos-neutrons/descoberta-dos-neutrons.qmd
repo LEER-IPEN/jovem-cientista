@@ -1,0 +1,32 @@
+---
+title: "Descoberta dos Nêutrons"
+description: "Como os nêutrons foram descobertos?"
+date: "2023-10-19"
+author: "Cibele Zamboni e Dalton Giovanni"
+categories: [Vida de Neutrons, IPEN]
+image: "capa-descoberta-neutrons.png" # Foto de capa do post
+reading-time: true
+toc: true
+---
+
+:::: {.texto-justificado}
+
+<br>
+<div class="bloco-imagem">
+  <img src="capa-descoberta-neutrons.png" alt="Capa Descoberta dos Nêutrons">
+  <p class="creditos-imagem">
+    Fonte: do autor
+  </p>
+</div>
+<br>
+
+<br>
+<div class="bloco-imagem">
+  <img src="descoberta-neutrons.png" alt="Descoberta dos Nêutrons">
+  <p class="creditos-imagem">
+    Fonte: do autor
+  </p>
+</div>
+<br>
+
+::::

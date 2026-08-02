@@ -1,0 +1,31 @@
+---
+title: "Vida de Nêutrons: Retrospectiva 2024"
+description: "Retrospectiva 2024"
+date: "2024-12-30"
+author: "Jovem Cientista"
+categories: [Vida de Neutrons, IPEN]
+image: "retrospectiva-2024.png" # Foto de capa do post
+reading-time: true
+toc: true
+---
+
+:::: {.texto-justificado}
+
+<br>
+<div class="bloco-imagem">
+  <img src="retrospectiva-2024.png" alt="Retrospectiva 2024">
+  <p class="creditos-imagem">
+    Fonte: do autor
+  </p>
+</div>
+<br>
+
+Este ano, nosso Nêutron viveu grandes aventuras: 🎂 🎃 🌌 🕵️‍♂️ 🎶 👩‍🏫 💡
+
+💥 2025 promete ainda mais surpresas! Fiquem ligados e acompanhem nosso nêutron.
+
+---
+
+{{< video https://www.youtube.com/watch?v=HEUS8kpuWok >}}
+
+::::

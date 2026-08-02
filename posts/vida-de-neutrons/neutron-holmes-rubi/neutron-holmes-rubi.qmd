@@ -1,0 +1,36 @@
+---
+title: "Nêutron Holmes: Será que é Rubi?"
+description: "Como saber se um rubi é verdadeiro?"
+date: "2024-04-02"
+author: "Jovem Cientista"
+categories: [Vida de Neutrons, IPEN]
+image: "neutron-holmes-rubi.png" # Foto de capa do post
+reading-time: true
+toc: true
+---
+
+:::: {.texto-justificado}
+
+<br>
+<div class="bloco-imagem">
+  <img src="neutron-holmes-rubi.png" alt="Neutron Holmes Rubi">
+  <p class="creditos-imagem">
+    Fonte: do autor
+  </p>
+</div>
+<br>
+
+Os nêutrons podem auxiliar na investigação de falsificações de joias.
+Os nêutrons podem dar informação dos metais presentes nas joias como mostrar a presença de ouro e prata, bem como identificar elementos que caracterizam pedras preciosas.
+
+<br>
+<div class="bloco-imagem">
+  <img src="quadrinho-1-neutron-holmes-rubi.png" alt="Quadrinho Neutrons Holmes Rubi">
+  <img src="quadrinho-2-neutron-holmes-rubi.png" alt="Quadrinho Neutrons Holmes Rubi">
+  <p class="creditos-imagem">
+    Fonte: do autor
+  </p>
+</div>
+<br>
+
+::::

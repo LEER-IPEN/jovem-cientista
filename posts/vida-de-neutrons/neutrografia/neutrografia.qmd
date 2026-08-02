@@ -1,0 +1,36 @@
+---
+title: "Neutrografia"
+description: "O que é a Neutrografia?"
+date: "2023-10-26"
+author: "Jovem Cientista"
+categories: [Vida de Neutrons, IPEN]
+image: "capa-neutrografia.png" # Foto de capa do post
+reading-time: true
+toc: true
+---
+
+:::: {.texto-justificado}
+
+<br>
+<div class="bloco-imagem">
+  <img src="capa-neutrografia.png" alt="Neutrografia">
+  <p class="creditos-imagem">
+    Fonte: do autor
+  </p>
+</div>
+<br>
+
+Neutrografia é uma propriedade do nêutron de gerar imagens. É um tipo de radiografia que utiliza nêutrons predominantemente frio.
+
+<br>
+<div class="bloco-imagem">
+  <img src="neutrografia-1.png" alt="Neutrografia Quadrinho">
+  <img src="neutrografia-2.png" alt="Neutrografia Quadrinho">
+  <img src="neutrografia-3.png" alt="Neutrografia Quadrinho">
+  <p class="creditos-imagem">
+    Fonte: do autor
+  </p>
+</div>
+<br>
+
+::::

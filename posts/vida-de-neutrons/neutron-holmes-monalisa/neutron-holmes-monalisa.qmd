@@ -1,0 +1,26 @@
+---
+title: "Nêutron Holmes: Monalisa?"
+description: "Como nêutrons são capazes investigar obras de arte?"
+date: "2024-04-10"
+author: "Cibele Zamboni e Dalton Giovanni"
+categories: [Vida de Neutrons, IPEN]
+image: "neutron-holmes-monalisa.png" # Foto de capa do post
+reading-time: true
+toc: true
+---
+
+:::: {.texto-justificado}
+
+<br>
+<div class="bloco-imagem">
+  <img src="neutron-holmes-monalisa.png" alt="Neutron Holmes Monalisa">
+  <p class="creditos-imagem">
+    Fonte: do autor
+  </p>
+</div>
+<br>
+
+Os nêutrons podem auxiliar na investigação de obras de artes.
+Os nêutrons podem dar informação dos elementos químicos presentes em tintas artísticas, pois a presença de certos elementos variam com a sua data de fabricação.
+
+::::
