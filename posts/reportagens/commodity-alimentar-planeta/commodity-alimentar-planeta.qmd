@@ -1,0 +1,27 @@
+---
+title: "A Commodity que ajuda a alimentar o planeta"
+description: "Descubra a commodity que alimenta o planeta."
+date: "2026-05-21"
+author: "Cibele Zamboni e Dalton Giovanni"
+categories: [Reportagens, IPEN]
+image: "commodity-alimentar-planeta.png" # Foto de capa do post
+reading-time: true
+toc: true
+---
+
+:::: {.texto-justificado}
+
+<br>
+<div class="bloco-imagem">
+  <img src="commodity-alimentar-planeta.png" alt="Capa - A commodity que ajuda alimentar o planeta.">
+  <p class="creditos-imagem">
+    Fonte: do autor
+  </p>
+</div>
+<br>
+
+---
+
+{{< video https://www.youtube.com/watch?v=YcAMIgfE6no >}}
+
+::::

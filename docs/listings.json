@@ -28,9 +28,15 @@
   {
     "listing": "/reportagens.html",
     "items": [
+      "/posts/reportagens/commodity-alimentar-planeta/commodity-alimentar-planeta.html",
+      "/posts/reportagens/investigacao-commodities/investigacao-commodities.html",
+      "/posts/reportagens/brasil-argentina-parceiros/brasil-argentina-parceiros.html",
+      "/posts/reportagens/fotografando-neutrons/fotografando-neutrons.html",
+      "/posts/reportagens/cuida-dos-oceanos/cuida-dos-oceanos.html",
+      "/posts/reportagens/fusao-nuclear-verde/fusao-nuclear-verde.html",
       "/posts/reportagens/reatores-nucleares-sociedade/reatores-nucleares-sociedade.html",
       "/posts/reportagens/mulheres-que-voam/mulheres-que-voam.html",
-      "/posts/reportagens/radiacao-obas/radiacao-obras.html",
+      "/posts/reportagens/radiacao-obras/radiacao-obras.html",
       "/posts/reportagens/antartida/antartida.html",
       "/posts/reportagens/ciencia-restauro-mercado/ciencia-restauro-mercado.html",
       "/posts/reportagens/ciencia-restauro-pinturas/ciencia-restauro-pinturas.html",
